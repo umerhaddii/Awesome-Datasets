@@ -11,5 +11,5 @@
 | Sr. No | Dataset Name         | Link              |
 |--------|----------------------|-------------------|
 | 1      | The Rolling Stone Album Rankings     | [👆](https://www.kaggle.com/datasets/umerhaddii/rolling-stone-album-rankings)       |
-| 2      | Dataset Example 2     | [Link 2](#)       |
-| 3      | Dataset Example 3     | [Link 3](#)       |
+| 2      | PSL Season 9 Complete Dataset (2024)     | [👆](https://www.kaggle.com/datasets/umerhaddii/psl-season-9-complete-dataset-2024)       |
+| 3      | The Great American Coffee Taste Test Dataset     | [👆](https://www.kaggle.com/datasets/umerhaddii/the-great-american-coffee-taste-test-dataset)       |

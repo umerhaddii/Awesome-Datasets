@@ -13,3 +13,4 @@
 | 1      | The Rolling Stone Album Rankings     | [👆](https://www.kaggle.com/datasets/umerhaddii/rolling-stone-album-rankings)       |
 | 2      | PSL Season 9 Complete Dataset (2024)     | [👆](https://www.kaggle.com/datasets/umerhaddii/psl-season-9-complete-dataset-2024)       |
 | 3      | The Great American Coffee Taste Test Dataset     | [👆](https://www.kaggle.com/datasets/umerhaddii/the-great-american-coffee-taste-test-dataset)       |
+| 4      | UK Gender Pay Gap Data 2018-2023     | [👆](https://www.kaggle.com/datasets/umerhaddii/uk-gender-pay-gap-data-2018-2023)  |

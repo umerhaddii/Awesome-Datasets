@@ -16,7 +16,10 @@
 | 4      | UK Gender Pay Gap Data 2018-2023     | [👆](https://www.kaggle.com/datasets/umerhaddii/uk-gender-pay-gap-data-2018-2023)  |
 | 5      | Lisa's Vegetable Garden Data         | [👆](https://www.kaggle.com/datasets/umerhaddii/lisas-vegetable-garden-data) |
 | 6      | Global Cheese Dataset                | [👆](https://www.kaggle.com/datasets/umerhaddii/global-cheese-dataset)  |
-|7       | European Flights Dataset             | [👆](https://www.kaggle.com/datasets/umerhaddii/european-flights-dataset) |
+| 7      | European Flights Dataset             | [👆](https://www.kaggle.com/datasets/umerhaddii/european-flights-dataset) |
+| 8      | Big Tech Giants Stock Price Data     | [👆](https://www.kaggle.com/datasets/umerhaddii/big-tech-giants-stock-price-data) |
+| 9      | US Collegiate Sports Dataset         | [👆](https://www.kaggle.com/datasets/umerhaddii/us-collegiate-sports-dataset) |
+| 10     | US Census Bureau's Monthly State Retail Sales Data     | [👆](https://www.kaggle.com/datasets/umerhaddii/us-census-bureaus-monthly-state-retail-sales-data) |
 
 ***More Datasets list is coming...!!!***
 

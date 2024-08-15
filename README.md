@@ -20,6 +20,10 @@
 | 8      | Big Tech Giants Stock Price Data     | [👆](https://www.kaggle.com/datasets/umerhaddii/big-tech-giants-stock-price-data) |
 | 9      | US Collegiate Sports Dataset         | [👆](https://www.kaggle.com/datasets/umerhaddii/us-collegiate-sports-dataset) |
 | 10     | US Census Bureau's Monthly State Retail Sales Data     | [👆](https://www.kaggle.com/datasets/umerhaddii/us-census-bureaus-monthly-state-retail-sales-data) |
+| 11     | Exxon Mobil Stock Price Data         | [👆](https://www.kaggle.com/datasets/umerhaddii/exxon-mobil-stock-price-data) |
+| 12     | American Idol Data                   | [👆](https://www.kaggle.com/datasets/umerhaddii/american-idol-data) |
+| 13     | Berkshire Hathaway Stock Price Data  | [👆](https://www.kaggle.com/datasets/umerhaddii/berkshire-hathaway-stock-price-data) |
+| 14     | IMDb Summer Movies Data              | [👆](https://www.kaggle.com/datasets/umerhaddii/imdb-summer-movies-data) |
 
 ***More Datasets list is coming...!!!***
 

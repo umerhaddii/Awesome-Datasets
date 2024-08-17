@@ -24,6 +24,7 @@
 | 12     | American Idol Data                   | [👆](https://www.kaggle.com/datasets/umerhaddii/american-idol-data) |
 | 13     | Berkshire Hathaway Stock Price Data  | [👆](https://www.kaggle.com/datasets/umerhaddii/berkshire-hathaway-stock-price-data) |
 | 14     | IMDb Summer Movies Data              | [👆](https://www.kaggle.com/datasets/umerhaddii/imdb-summer-movies-data) |
+| 15     | Saudi Aramco Stock Price Data        | [👆](https://www.kaggle.com/datasets/umerhaddii/saudi-aramco-stock-price-data) |
 
 ***More Datasets list is coming...!!!***
 

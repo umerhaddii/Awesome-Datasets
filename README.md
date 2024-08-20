@@ -30,6 +30,12 @@
 | 18     | GDP Growth of Pakistan                 | [👆](https://www.kaggle.com/datasets/batrosjamali/gdp-growth-of-pakistan) |
 | 19     | Top 100 Airports of the World          | [👆](https://www.kaggle.com/datasets/batrosjamali/top-100-airports-of-the-world) |
 | 20     | Daily Water Intake Recommended         | [👆](https://www.kaggle.com/datasets/batrosjamali/daily-water-intake-recommended) |
+| 21     | Earnings of females and males employees       | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsearningcsv) |
+| 22     | Deforestation in Federal Conservation Units | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadstserofcsv) |
+| 23     | Water Scarcity - Water Footprint       | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsscarcitycsv) |
+| 24     | Anxiety and Depression Psychological Therapies   | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsanxietycsv) |
+| 25     | Gas emissions (CO2-e) by transport sector          | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsdioxidecsv) |
+| 26     | Abortion Statistics         | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsabortioncsv) |
  
 ***More Datasets list is coming...!!!***
 

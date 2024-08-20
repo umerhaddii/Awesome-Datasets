@@ -25,7 +25,12 @@
 | 13     | Berkshire Hathaway Stock Price Data  | [👆](https://www.kaggle.com/datasets/umerhaddii/berkshire-hathaway-stock-price-data) |
 | 14     | IMDb Summer Movies Data              | [👆](https://www.kaggle.com/datasets/umerhaddii/imdb-summer-movies-data) |
 | 15     | Saudi Aramco Stock Price Data        | [👆](https://www.kaggle.com/datasets/umerhaddii/saudi-aramco-stock-price-data) |
-
+| 16     | 100 Highest Paid Athletes of the World  | [👆](https://www.kaggle.com/datasets/batrosjamali/100-highest-paid-athletes-of-the-world) |
+| 17     | Top Ranked 2000 Universities of the World | [👆](https://www.kaggle.com/datasets/batrosjamali/top-2000-universities-of-the-world) |
+| 18     | GDP Growth of Pakistan                 | [👆](https://www.kaggle.com/datasets/batrosjamali/gdp-growth-of-pakistan) |
+| 19     | Top 100 Airports of the World          | [👆](https://www.kaggle.com/datasets/batrosjamali/top-100-airports-of-the-world) |
+| 20     | Daily Water Intake Recommended         | [👆](https://www.kaggle.com/datasets/batrosjamali/daily-water-intake-recommended) |
+ 
 ***More Datasets list is coming...!!!***
 
 ----

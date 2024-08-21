@@ -36,6 +36,10 @@
 | 24     | Anxiety and Depression Psychological Therapies   | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsanxietycsv) |
 | 25     | Gas emissions (CO2-e) by transport sector          | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsdioxidecsv) |
 | 26     | Abortion Statistics         | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsabortioncsv) |
+| 27     | Loans and Liability         | [👆](https://www.kaggle.com/datasets/matinmahmoudi/loans-and-liability) |
+| 28     | Sales and Satisfaction      | [👆](https://www.kaggle.com/datasets/matinmahmoudi/sales-and-satisfaction) |
+| 29     | Rounds and Retention        | [👆](https://www.kaggle.com/datasets/matinmahmoudi/rounds-and-retention) |
+| 30     | Occupation and Outcome      | [👆](https://www.kaggle.com/datasets/matinmahmoudi/occupation-and-outcome) |
  
 ***More Datasets list is coming...!!!***
 

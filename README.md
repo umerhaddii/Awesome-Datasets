@@ -42,8 +42,15 @@
 | 30     | Occupation and Outcome      | [👆](https://www.kaggle.com/datasets/matinmahmoudi/occupation-and-outcome) |
 | 31     | Reservations and Reasons    | [👆](https://www.kaggle.com/datasets/matinmahmoudi/reservations-and-reasons) |
 | 32     | Online Dating               | [👆](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloads9173jpeg) |
- 
-***More Datasets list is coming...!!!***
+| 33     | Better Life Index 2024      | [👆](https://www.kaggle.com/datasets/darrylljk/better-life-index-2024-life-satisfaction) |
+| 34     | QS University Rankings 2025 | [👆](https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025) |
+| 35     | Magic: The Gathering        | [👆](https://www.kaggle.com/datasets/darrylljk/magic-the-gathering-card-ratings-otj) |
+| 36     | Marvel Cinematic Universe Films Box Office | [👆](https://www.kaggle.com/datasets/darrylljk/marvel-cinematic-universe-films-box-office) |
+| 37     | Absenteeism in New South Wales School      | [👆](https://www.kaggle.com/datasets/darrylljk/absenteeism-in-rural-new-south-wales-school) |
+| 38     | Latest Data Science Job Salaries 2020 - 2024 | [👆](https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024) |
+| 39     | Banking Customer Churn Prediction Dataset    | [👆](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) |
+| 40     | Housing Price Data                           | [👆](https://www.kaggle.com/datasets/saurabhbadole/housing-price-data) |
+***More Datasets list is coming...!!!*** 
 
 ----
 

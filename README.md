@@ -54,7 +54,7 @@
 | 42     | World Population Dataset           | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset) |
 | 43     | House Rent Prediction Dataset      | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) |
 | 44     | NIFTY-50 Stocks Dataset            | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset) |
-| 45  | Animal Image Dataset (90 Different Animals)  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals) |
+| 45     | Animal Image Dataset (90 Different Animals)  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals) |
 ***More Datasets list is coming...!!!*** 
 
 ----

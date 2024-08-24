@@ -50,6 +50,11 @@
 | 38     | Latest Data Science Job Salaries 2020 - 2024 | [👆](https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024) |
 | 39     | Banking Customer Churn Prediction Dataset    | [👆](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) |
 | 40     | Housing Price Data                           | [👆](https://www.kaggle.com/datasets/saurabhbadole/housing-price-data) |
+| 41     | Customer Shopping Trends Dataset   | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) |
+| 42     | World Population Dataset           | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset) |
+| 43     | House Rent Prediction Dataset      | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) |
+| 44     | NIFTY-50 Stocks Dataset            | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset) |
+| 45     | Animal Image Dataset (90 Different Animals)  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals) |
 ***More Datasets list is coming...!!!*** 
 
 ----

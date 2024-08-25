@@ -55,6 +55,11 @@
 | 43     | House Rent Prediction Dataset      | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) |
 | 44     | NIFTY-50 Stocks Dataset            | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset) |
 | 45     | Animal Image Dataset (90 Different Animals)  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals) |
+| 46     | Data Professionals Salary - 2022    | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-salaries-2022-india) |
+| 47     | Airline Dataset                     | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset) |
+| 48     | Heart Attack Risk Prediction Dataset | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) |
+| 49     | Software Industry Salary Dataset - 2022   | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022) |
+| 50     | Cause of Deaths around the World (Historical Data)   | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world) |
 ***More Datasets list is coming...!!!*** 
 
 ----

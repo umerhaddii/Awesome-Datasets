@@ -60,6 +60,16 @@
 | 48     | Heart Attack Risk Prediction Dataset | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) |
 | 49     | Software Industry Salary Dataset - 2022   | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022) |
 | 50     | Cause of Deaths around the World (Historical Data)   | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world) |
+| 52     | Indian Food Images Dataset  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset) |
+| 53     | FIFA - Football World Cup Dataset  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset) |
+| 54     | Latest Data Science Salaries  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023) |
+| 55     | Stock Market Dataset (NIFTY-500)  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/nifty500-stocks-dataset) |
+| 56     | IPL - Player Performance Dataset  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/ipl-player-performance-dataset) |
+| 57     | Planet Dataset  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/planet-dataset) |
+| 58     | Indian Actor Images Dataset  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-actor-images-dataset) |
+| 59     | Human Development World Index  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset) |
+| 60     | Coronavirus Records Dataset: 2021  | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/covid19-dataset-world-and-continent-wise) |
+| 61     | Computer Games Dataset         | [👆](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) |
 ***More Datasets list is coming...!!!*** 
 
 ----

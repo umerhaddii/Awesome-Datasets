@@ -102,8 +102,8 @@
 | 90     | English Monarchs and Marriages Dataset  | [👆](https://www.kaggle.com/datasets/umerhaddii/english-monarchs-and-marriages-dataset) |
 | 91     | Top 10 Global Companies Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/top-10-global-companies-stock-data-2024) |
 | 92     | Paris Olympic Medalists 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/paris-olympic-medalists-2024) |
-| 93     |   | [👆]() |
-| 94     |   | [👆]() |
+| 93     | Economic Diversity and Student Outcomes Data  | [👆](https://www.kaggle.com/datasets/umerhaddii/economic-diversity-and-student-outcomes-data) |
+| 94     | Shakespeare Play's Dialogues  | [👆](https://www.kaggle.com/datasets/umerhaddii/shakespeare-plays-dialogues) |
 | 95     |   | [👆]() |
 | 96     |   | [👆]() |
 | 97     |   | [👆]() |

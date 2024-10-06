@@ -99,9 +99,9 @@
 | 87     | Global Movie Database: A Comprehensive Overview  | [👆](https://www.kaggle.com/datasets/mehmetisik/movie-metadata) |
 | 88     | Exploring the Mysterious World of Mushrooms  | [👆](https://www.kaggle.com/datasets/mehmetisik/mushrooms) |
 | 89     | Online Product Reviews Analysis: Customer Feedback  | [👆](https://www.kaggle.com/datasets/mehmetisik/amazon-review) |
-| 90     |   | [👆]() |
-| 91     |   | [👆]() |
-| 92     |   | [👆]() |
+| 90     | English Monarchs and Marriages Dataset  | [👆](https://www.kaggle.com/datasets/umerhaddii/english-monarchs-and-marriages-dataset) |
+| 91     | Top 10 Global Companies Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/top-10-global-companies-stock-data-2024) |
+| 92     | Paris Olympic Medalists 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/paris-olympic-medalists-2024) |
 | 93     |   | [👆]() |
 | 94     |   | [👆]() |
 | 95     |   | [👆]() |

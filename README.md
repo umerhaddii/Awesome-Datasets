@@ -108,7 +108,7 @@
 | 96     | Walmart Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/walmart-stock-data-2024) |
 | 97     | Visa Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/visa-stock-data-2024) |
 | 98     | Oracle Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/oracle-stock-data-2024) |
-| 99     |   | [👆]() |
+| 99     | James Beard Awards Dataset 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/james-beard-awards-dataset-2024) |
 | 100     |   | [👆]() |
 ***More Datasets list is coming...!!!*** 
 

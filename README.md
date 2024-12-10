@@ -111,6 +111,7 @@
 | 99     | James Beard Awards Dataset 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/james-beard-awards-dataset-2024) |
 | 100    | Samsung Stock Data 2024  | [👆](https://www.kaggle.com/datasets/umerhaddii/samsung-stock-data-2024) |
 | 101    | IMDb Monster Movies Dataset | [👆](https://www.kaggle.com/datasets/umerhaddii/imdb-monster-movies-dataset) |
+| 102    | NVIDIA Stock Data 2024      | [👆](https://www.kaggle.com/datasets/umerhaddii/nvidia-stock-data-2024) |
 ***More Datasets list is coming...!!!*** 
 
 ----

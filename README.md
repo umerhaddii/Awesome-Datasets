@@ -113,6 +113,7 @@
 | 101    | IMDb Monster Movies Dataset | [👆](https://www.kaggle.com/datasets/umerhaddii/imdb-monster-movies-dataset) |
 | 102    | NVIDIA Stock Data 2024      | [👆](https://www.kaggle.com/datasets/umerhaddii/nvidia-stock-data-2024) |
 | 103    | Replication Data for: EPSM - A Global Dataset  | [👆](https://www.kaggle.com/datasets/umerhaddii/replication-data-for-epsm-a-global-dataset) |
+| 104    | Google Stock Data 2024      | [👆](https://www.kaggle.com/datasets/umerhaddii/google-stock-data-2024)
 ***More Datasets list is coming...!!!*** 
 
 ----

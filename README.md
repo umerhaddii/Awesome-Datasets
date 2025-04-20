@@ -115,6 +115,18 @@
 | 103    | Replication Data for: EPSM - A Global Dataset  | [👆](https://www.kaggle.com/datasets/umerhaddii/replication-data-for-epsm-a-global-dataset) |
 | 104    | Google Stock Data 2024      | [👆](https://www.kaggle.com/datasets/umerhaddii/google-stock-data-2024)  |
 | 105    | Apple Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/apple-stock-data-2025)   |
+| 106    | AI Governance Documents Data | [👆](https://www.kaggle.com/datasets/umerhaddii/ai-governance-documents-data) |
+| 107    | Meta Stock Data 2025     | [👆](https://www.kaggle.com/datasets/umerhaddii/meta-stock-data-2025) |
+| 108    | HF FineWeb 2 Dataset  | [👆](https://www.kaggle.com/datasets/umerhaddii/fineweb-2-dataset) |
+| 109    | Microsoft Stock Data 2025      | [👆](https://www.kaggle.com/datasets/umerhaddii/microsoft-stock-data-2025)  |
+| 110    | Tesla Stock Data 2025      | [👆](https://www.kaggle.com/datasets/umerhaddii/tesla-stock-data-2025)   |
+| 111    | Amazon Stock Data 2025 | [👆](https://www.kaggle.com/datasets/umerhaddii/amazon-stock-data-2025) |
+| 112    | JPMorgan Chase Stock Data 2025     | [👆](https://www.kaggle.com/datasets/umerhaddii/jpmorgan-chase-stock-data-2025) |
+| 113    | Broadcom Stock Data 2025  | [👆](https://www.kaggle.com/datasets/umerhaddii/broadcom-stock-data-2025) |
+| 114    | Formula 1 - Chinese Grand Prix 2025     | [👆](https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025)  |
+| 115    | F1 - Japanese Grand Prix 2025      | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-japanese-grand-prix-2025)   |
+
+
 ***More Datasets list is coming...!!!*** 
 
 ----

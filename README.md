@@ -1,8 +1,6 @@
 # Awesome-Datasets
 ## Awesome datasets for Data Practitioners 📊
 
-![hands-holding-up-colorful-letters-forming-word-data_53876-165240](https://github.com/user-attachments/assets/1970db49-e7ef-4822-8eb2-74928df8b0a4)
-
 ![ChatGPT Image Apr 20, 2025, 02_47_47 PM](https://github.com/user-attachments/assets/0cd7cb05-1f34-4ed1-a497-ab011103e60d)
 
 

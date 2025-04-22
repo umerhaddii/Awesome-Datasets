@@ -126,6 +126,7 @@
 | 113    | Broadcom Stock Data 2025  | [👆](https://www.kaggle.com/datasets/umerhaddii/broadcom-stock-data-2025) |
 | 114    | Formula 1 - Chinese Grand Prix 2025     | [👆](https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025)  |
 | 115    | F1 - Japanese Grand Prix 2025      | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-japanese-grand-prix-2025)   |
+| 116    | TSMC Stock Data 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/tsmc-stock-data-2025)   |
 
 
 ***More Datasets list is coming...!!!*** 

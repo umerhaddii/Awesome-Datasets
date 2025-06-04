@@ -126,9 +126,10 @@
 | 113    | Broadcom Stock Data 2025  | [👆](https://www.kaggle.com/datasets/umerhaddii/broadcom-stock-data-2025) |
 | 114    | Formula 1 - Chinese Grand Prix 2025     | [👆](https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025)  |
 | 115    | F1 - Japanese Grand Prix 2025      | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-japanese-grand-prix-2025)   |
-| 117    | Water Quality at Sydney Beaches 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/water-quality-at-sydney-beaches-2025)   |
-| 119    | F1-25: Australia, Bahrain, Saudi Arabia, Miami GPs  | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-australia-bahrain-saudi-arabia-miami-gps)   |
-| 120    | F1-25: Italian, Monaco, Spain GPs   | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-italian-monaco-spain-gps)   |
+| 116    | TSMC Stock Data 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/tsmc-stock-data-2025)   |
+| 117    | F1-25: Australia, Bahrain, Saudi Arabia, Miami GPs  | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-australia-bahrain-saudi-arabia-miami-gps)   |
+| 118    | Water Quality at Sydney Beaches 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/water-quality-at-sydney-beaches-2025)   |
+| 119    | F1-25: Italian, Monaco, Spain GPs   | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-italian-monaco-spain-gps)   |
 
 
 ***More Datasets list is coming...!!!*** 

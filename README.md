@@ -130,6 +130,13 @@
 | 117    | F1-25: Australia, Bahrain, Saudi Arabia, Miami GPs  | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-australia-bahrain-saudi-arabia-miami-gps)   |
 | 118    | Water Quality at Sydney Beaches 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/water-quality-at-sydney-beaches-2025)   |
 | 119    | F1-25: Italian, Monaco, Spain GPs   | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-italian-monaco-spain-gps)   |
+| 120    | NETFLIX Stock Data 2025            | [👆](https://www.kaggle.com/datasets/umerhaddii/netflix-stock-data-2025)  |
+| 121    |        | [👆]   |
+| 122    |         | [👆]   |
+| 123    |         | [👆]   |
+| 124    |         | [👆]   |
+| 125    |         | [👆]   |
+
 
 
 ***More Datasets list is coming...!!!*** 

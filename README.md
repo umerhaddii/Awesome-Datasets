@@ -131,10 +131,10 @@
 | 118    | Water Quality at Sydney Beaches 2025   | [👆](https://www.kaggle.com/datasets/umerhaddii/water-quality-at-sydney-beaches-2025)   |
 | 119    | F1-25: Italian, Monaco, Spain GPs   | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-italian-monaco-spain-gps)   |
 | 120    | NETFLIX Stock Data 2025            | [👆](https://www.kaggle.com/datasets/umerhaddii/netflix-stock-data-2025)  |
-| 121    |        | [👆]   |
-| 122    |         | [👆]   |
-| 123    |         | [👆]   |
-| 124    |         | [👆]   |
+| 121    | TOYOTA Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/toyota-stock-data-2025)   |
+| 122    | F1-25: Canada - Austria - UK GPs        | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-canada-austria-uk-gps)   |
+| 123    | Tencent Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/tencent-stock-data-2025)   |
+| 124    | GOLD Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/gold-stock-data-2025)   |
 | 125    |         | [👆]   |
 
 

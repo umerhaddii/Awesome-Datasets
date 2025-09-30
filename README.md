@@ -135,9 +135,12 @@
 | 122    | F1-25: Canada - Austria - UK GPs        | [👆](https://www.kaggle.com/datasets/umerhaddii/f1-25-canada-austria-uk-gps)   |
 | 123    | Tencent Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/tencent-stock-data-2025)   |
 | 124    | GOLD Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/gold-stock-data-2025)   |
-| 125    |         | [👆]   |
-
-
+| 125    | Formula1 25 Belgian, Hungarian, Dutch Grand Prixes        | [👆](https://www.kaggle.com/datasets/umerhaddii/formula1-25-belgian-hungarian-dutch-grand-prixes)   |
+| 126    | Palantir Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/palantir-stock-data-2025)   |
+| 127    | Amazon Product Images Dataset 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/amazon-product-images-dataset-2025)   |
+| 128    |        | [👆]()   |
+| 129    |        | [👆]()   |
+| 130    |        | [👆]()   |
 
 ***More Datasets list is coming...!!!*** 
 

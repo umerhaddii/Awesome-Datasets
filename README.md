@@ -138,9 +138,9 @@
 | 125    | Formula1 25 Belgian, Hungarian, Dutch Grand Prixes        | [👆](https://www.kaggle.com/datasets/umerhaddii/formula1-25-belgian-hungarian-dutch-grand-prixes)   |
 | 126    | Palantir Stock Data 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/palantir-stock-data-2025)   |
 | 127    | Amazon Product Images Dataset 2025        | [👆](https://www.kaggle.com/datasets/umerhaddii/amazon-product-images-dataset-2025)   |
-| 128    |        | [👆]()   |
-| 129    |        | [👆]()   |
-| 130    |        | [👆]()   |
+| 128    | AI Hallucination Cases Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/ai-hallucination-cases-data-2025)   |
+| 129    | ASML Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/asml-stock-data-2025)   |
+| 130    | Shopify Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/shopify-stock-data-2025)   |
 
 ***More Datasets list is coming...!!!*** 
 

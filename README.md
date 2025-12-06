@@ -141,6 +141,18 @@
 | 128    | AI Hallucination Cases Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/ai-hallucination-cases-data-2025)   |
 | 129    | ASML Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/asml-stock-data-2025)   |
 | 130    | Shopify Stock Data 2025       | [👆](https://www.kaggle.com/datasets/umerhaddii/shopify-stock-data-2025)   |
+| 131    |                    | [👆]()  |
+| 132    |                    | [👆]()  |
+| 133    |                    | [👆]()  |
+| 134    |                    | [👆]()  |
+| 135    |                    | [👆]()  |
+| 136    |                    | [👆]()  |
+| 137    |                    | [👆]()  |
+| 138    |                    | [👆]()  |
+| 139    |                    | [👆]()  |
+| 140    |                    | [👆]()  |
+| 141    |                    | [👆]()  |
+| 142    |                    | [👆]()  |
 
 ***More Datasets list is coming...!!!*** 
 
